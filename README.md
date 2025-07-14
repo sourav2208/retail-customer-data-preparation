@@ -54,7 +54,7 @@ This end-to-end project covers the complete journey from raw retail transaction 
 
 ---
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 - Real-world Data Cleaning
 - Time Series Analysis
 - Customer Segmentation using RFM
@@ -63,6 +63,29 @@ This end-to-end project covers the complete journey from raw retail transaction 
 - Business Insight Generation
 
 ---
+## Key Insights
+- A large number of customers are classified as low-value based on their recency, frequency, and monetary activity.
+
+- The top 5 customers contribute a significant portion of total revenue.
+
+- Most customers who responded positively (response = 1) are also among those with higher frequency and monetary value.
+
+- Outliers were detected in transaction amounts, indicating a few unusually high spenders.
+
+- Customer activity varies over time — some customers are active consistently, while others show irregular patterns.
+
+The churn rate is noticeable; a significant percentage of customers did not respond or engage recently.####
+
+## Recommendations
+- Retarget mid-value customers with promotional offers to increase their transaction frequency and spending.
+
+- Re-engage churn-prone customers (with low recency) through personalized emails, SMS, or loyalty programs.
+
+- Monitor top customers closely and offer VIP benefits to retain them and increase their lifetime value.
+
+- Use segmentation to create tailored marketing campaigns different strategies for low, mid, and high-value segments.
+
+- Regularly perform RFM analysis to keep track of shifting customer behavior and act on trends early.
 
 ### 📫 Connect with me on [LinkedIn] - https://www.linkedin.com/in/sourav2208/
 
