@@ -1,5 +1,6 @@
 # Retail Customer Analytics: Data Cleaning, Time Series, Churn & RFM Analysis
 ![Retail](https://github.com/sourav2208/retail-customer-data-preparation/blob/main/retail.png)
+
 This end-to-end project covers the complete journey from raw retail transaction data to meaningful business insights. It includes data cleaning, time series analysis, customer churn identification, and RFM segmentation.
 
 ## Datasets Used
